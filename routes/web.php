@@ -7,3 +7,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [WebController::class, 'index'])->name('home');
 Route::get('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/register', [AuthController::class, 'register'])->name('register');
+
+Route::get('/detail/produk', [WebController::class, 'detailProduk'])->name('detail.produk');

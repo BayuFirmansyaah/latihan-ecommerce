@@ -13,3 +13,89 @@
 .title-primary{
     font-size: 32px;
 }
+
+.thumbnail-produk{
+    width: 100%;
+    height: 550px;
+    border: 1px solid rgb(34 37 41);
+    padding: 12px;
+}
+
+.thumbnail-produk img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.detail-produk{
+    width: 100%;
+    min-height: 400px;
+}
+
+.title-produk{
+    font-size: 32px;
+    line-height: 150%;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.price-produk{
+    font-size: 28px;
+    line-height: 150%;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.stock-produk{
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 300;
+    margin-bottom: 20px;
+    background-color: black;
+    display: inline-block;
+    padding: 6px 18px;
+    color: white;
+}
+
+.description-produk{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 150%;
+    margin-bottom: 20px;
+}
+
+.input-jumlah{
+    width: 100%;
+}
+
+.input-jumlah label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.input-jumlah .wrap-counting{
+    width: 100%;   
+}
+
+.input-jumlah .wrap-counting button{
+    width:40px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.input-jumlah .wrap-counting input{
+    height: 40px;
+    text-align: center;
+}
+
+button.checkout{
+    width: 100%;
+    height: 55px;
+    background-color: black;
+    color: white;
+    margin-top: 32px;
+}

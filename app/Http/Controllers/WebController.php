@@ -10,4 +10,9 @@ class WebController extends Controller
     {
         return view('home');
     }
+
+    public function detailProduk()
+    {
+        return view('produk.detail');
+    }
 }
