@@ -51,7 +51,7 @@
                 <div class="col-12">
                     <div class="row">
                         {{-- list product --}}
-                        <div class="col-3 mb-3">
+                        <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
                             <div class="card w-100">
                                 <img src="https://d1yutv2xslo29o.cloudfront.net/product/variant/photo/910005092_BLACK_1_90a7.jpg"
                                     class="card-img-top" alt="...">
@@ -62,7 +62,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mb-3">
+                        <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
                             <div class="card w-100">
                                 <img src="https://d1yutv2xslo29o.cloudfront.net/product/variant/media/web/537369033c9c58db3de451bf26319ada.webp"
                                     class="card-img-top" alt="...">
@@ -73,7 +73,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mb-3">
+                        <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
                             <div class="card w-100">
                                 <img src="https://d1yutv2xslo29o.cloudfront.net/product/variant/media/web/1c3bc871706050f1ee9ab842461f29cf.webp"
                                     class="card-img-top" alt="...">
@@ -84,7 +84,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mb-3">
+                        <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
                             <div class="card w-100">
                                 <img src="https://d1yutv2xslo29o.cloudfront.net/product/variant/media/web/3fe88f371d62696cc2166c60150207b2.webp"
                                     class="card-img-top" alt="...">
